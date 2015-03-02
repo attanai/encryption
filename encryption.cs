@@ -7,7 +7,7 @@ using System.Security.Cryptography;
 using System.IO;
 using System.Windows.Forms;
 
-namespace ServerMap
+namespace encryption
 {
     class encryption
     {
